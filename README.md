@@ -12,4 +12,3 @@
 *   **Wall-Following Algorithm:** The `determineNextMove` function implements a simple wall-following algorithm based on the IR sensor readings.
 *   **Dead Reckoning:**  Not explicitly implemented here, but you could add code to track wheel movements and estimate the robot's position and orientation within the maze.
 
-Let me know if you have any specific questions or want to explore adding more advanced features!
