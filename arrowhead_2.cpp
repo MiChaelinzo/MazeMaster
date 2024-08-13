@@ -11,9 +11,10 @@
 #define MOTOR_LEFT_DIR 8
 #define MOTOR_RIGHT_PWM 10
 #define MOTOR_RIGHT_DIR 11
-// Add ultrasonic sensor pins if needed
-// #define TRIGGER_PIN ...
-// #define ECHO_PIN ...
+
+// Add ultrasonic sensor pins
+#define TRIGGER_PIN 7 // Adjust if needed
+#define ECHO_PIN 6     // Adjust if needed
 
 // --- Sensor Objects ---
 SharpIR sharpIRFront(IR_FRONT_PIN, 1080);
