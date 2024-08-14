@@ -11,20 +11,27 @@
 *   **Wall-Following Algorithm:** The `determineNextMove` function implements a simple wall-following algorithm based on the IR sensor readings.
 *   **Dead Reckoning:**  Not explicitly implemented here, but you could add code to track wheel movements and estimate the robot's position and orientation within the maze.
 
-**Spider MazeMaster** 
+**Spider MazeMaster concept** 
 
 ![Gemini_Generated_Image_5m73m65m73m65m73](https://github.com/user-attachments/assets/d33139b1-9443-414e-8c4e-e46c9f62e8c1)
 
-**Spider 2 MazeMaster**
+**Spider 2 MazeMaster concept**
 
 ![Gemini_Generated_Image_5m73m55m73m55m73](https://github.com/user-attachments/assets/c4ab6027-cb4c-4f80-9941-080bccefe4dc)
 
-**Arrowhead MazeMaster**
+**Arrowhead MazeMaster concept**
 
 ![Gemini_Generated_Image_k4ogbzk4ogbzk4og](https://github.com/user-attachments/assets/442a6a0a-4bfe-441f-87b2-0ed524ab8bee)
 
-**Arrowhead 2 MazeMaster**
+**Arrowhead 2 MazeMaster concept**
 
 ![Gemini_Generated_Image_k4ogbyk4ogbyk4og](https://github.com/user-attachments/assets/a9c49e5d-4b49-42b7-bb93-2a4b54cdd692)
 
+**Tank MazeMaster concept** 
+
+![Gemini_Generated_Image_bt343ubt343ubt34](https://github.com/user-attachments/assets/63ecfc5e-4468-4fb9-b1b9-76cdcc7efeb2)
+
+**Tank 2 MazeMaster concept** 
+
+![Gemini_Generated_Image_bt343rbt343rbt34](https://github.com/user-attachments/assets/029c8b0b-a900-4bb8-b1de-5921dea98798)
 
